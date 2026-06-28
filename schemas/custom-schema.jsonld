@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "okf": "https://openknowledgeformat.org/"
+  },
+  "@id": "https://example.com/custom-schema",
+  "@type": "CreativeWork",
+  "name": "Custom Knowledge Schema",
+  "description": "Extended schema for domain-specific knowledge entries",
+  "version": "1.0.0",
+  "extends": "https://schema.org/Thing",
+  "properties": {}
+}

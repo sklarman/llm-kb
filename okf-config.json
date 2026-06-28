@@ -1,0 +1,22 @@
+{
+  "name": "OKF Configuration",
+  "version": "1.0.0",
+  "directories": {
+    "knowledge": "./knowledge",
+    "schemas": "./schemas",
+    "assets": "./assets",
+    "output": "./dist"
+  },
+  "validation": {
+    "enabled": true,
+    "strict": false,
+    "validateReferences": true
+  },
+  "indexing": {
+    "enabled": true,
+    "generateSearchIndex": true
+  },
+  "export": {
+    "formats": ["jsonld", "json", "html"]
+  }
+}

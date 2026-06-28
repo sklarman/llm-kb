@@ -1,0 +1,11 @@
+# OKF Ignore - Files and directories to exclude from knowledge base processing
+node_modules/
+.git/
+.github/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db

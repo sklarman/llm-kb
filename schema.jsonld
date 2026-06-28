@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "okf": "https://openknowledgeformat.org/"
+  },
+  "@id": "https://openknowledgeformat.org/schema",
+  "@type": "CreativeWork",
+  "name": "Open Knowledge Format Schema",
+  "description": "Schema definitions for knowledge entries in this knowledge base",
+  "version": "1.0.0",
+  "definitions": {
+    "KnowledgeEntry": {
+      "@type": "Thing",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the knowledge entry"
+        },
+        "title": {
+          "type": "string",
+          "description": "Title of the knowledge entry"
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed description of the knowledge entry"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Tags for categorizing the knowledge entry"
+        },
+        "references": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "References and links related to this entry"
+        },
+        "dateCreated": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "dateModified": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}

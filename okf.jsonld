@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "okf": "https://openknowledgeformat.org/"
+  },
+  "@id": "https://example.com/knowledge-base",
+  "@type": "Dataset",
+  "name": "LLM Knowledge Base",
+  "description": "A knowledge base created using the Open Knowledge Format",
+  "version": "0.1.0",
+  "creator": {
+    "@type": "Organization",
+    "name": "Organization Name"
+  },
+  "dateCreated": "2026-06-28",
+  "dateModified": "2026-06-28",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "hasPart": []
+}

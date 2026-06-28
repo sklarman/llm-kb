@@ -1,0 +1,23 @@
+{
+  "formatVersion": "1.0.0",
+  "knowledge_base": {
+    "name": "LLM Knowledge Base",
+    "description": "A knowledge base for LLM-related concepts and documentation",
+    "language": "en-US",
+    "license": "CC-BY-4.0"
+  },
+  "creator": {
+    "name": "Your Name or Organization",
+    "email": "contact@example.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sklarman/llm-kb"
+  },
+  "dateCreated": "2026-06-28",
+  "dateModified": "2026-06-28",
+  "entries": {
+    "totalCount": 0,
+    "categories": []
+  }
+}
