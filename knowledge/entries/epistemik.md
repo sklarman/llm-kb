@@ -1,3 +1,15 @@
+---
+id: "https://github.com/sklarman/llm-kb/blob/main/knowledge/entries/epistemik.jsonld"
+type: Organization
+name: Epistemik
+description: "Former consultancy (now defunct) providing linked data, knowledge graph and semantics consulting services."
+keywords:
+  - linked-data
+  - knowledge-graphs
+  - semantics
+  - consultancy
+---
+
 # Epistemik
 
 ## Overview

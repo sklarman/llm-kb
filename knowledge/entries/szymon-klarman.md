@@ -1,3 +1,33 @@
+---
+id: "https://github.com/sklarman/llm-kb/blob/main/knowledge/entries/szymon-klarman.jsonld"
+type: Person
+name: "Szymon Klarman"
+description: "Founder and creator of the LLM Knowledge Base project, interested in knowledge representation and large language models"
+givenName: "Szymon"
+familyName: "Klarman"
+url: "https://github.com/sklarman"
+sameAs:
+  - "https://github.com/sklarman"
+exactMatch: "https://www.wikidata.org/entity/Q102440319"
+keywords:
+  - LLM
+  - knowledge-representation
+  - knowledge-base
+  - AI
+dateCreated: "2026-06-28"
+dateModified: "2026-06-28"
+role: "Creator"
+expertise:
+  - "Large Language Models"
+  - "Knowledge Representation"
+  - "Knowledge Engineering"
+affiliation:
+  id: "https://github.com/sklarman/llm-kb/blob/main/knowledge/entries/epistemik.jsonld"
+  type: Organization
+  name: "Epistemik"
+  description: "Former consultancy (now defunct) providing linked data, knowledge graph and semantics consulting services."
+---
+
 # Szymon Klarman
 
 ## Overview
