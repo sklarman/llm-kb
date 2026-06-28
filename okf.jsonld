@@ -3,7 +3,7 @@
     "@vocab": "https://schema.org/",
     "okf": "https://openknowledgeformat.org/"
   },
-  "@id": "https://example.com/knowledge-base",
+  "@id": "https://github.com/sklarman/llm-kb/blob/main/okf.jsonld",
   "@type": "Dataset",
   "name": "LLM Knowledge Base",
   "description": "A knowledge base created using the Open Knowledge Format",
@@ -17,9 +17,14 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "hasPart": [
     {
-      "@id": "https://example.com/person/szymon-klarman",
+      "@id": "https://github.com/sklarman/llm-kb/blob/main/knowledge/entries/szymon-klarman.jsonld",
       "@type": "Person",
       "name": "Szymon Klarman"
+    },
+    {
+      "@id": "https://github.com/sklarman/llm-kb/blob/main/knowledge/entries/epistemik.jsonld",
+      "@type": "Organization",
+      "name": "Epistemik"
     }
   ]
 }
