@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "okf": "https://openknowledgeformat.org/"
+  },
+  "@id": "https://example.com/org/epistemik",
+  "@type": "Organization",
+  "name": "Epistemik",
+  "description": "Former consultancy (now defunct) providing linked data, knowledge graph and semantics consulting services.",
+  "keywords": [
+    "linked-data",
+    "knowledge-graphs",
+    "semantics",
+    "consultancy"
+  ]
+}

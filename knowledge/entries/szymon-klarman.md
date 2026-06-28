@@ -9,6 +9,7 @@ Szymon Klarman is the creator and founder of the LLM Knowledge Base project. He 
 - **Name:** Szymon Klarman
 - **Role:** Creator, Knowledge Engineer
 - **GitHub:** [@sklarman](https://github.com/sklarman)
+ - **Former Affiliation:** Epistemik (consultancy on linked data, knowledge graphs and semantics)
 
 ## Expertise
 

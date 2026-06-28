@@ -28,4 +28,11 @@
     "Knowledge Representation",
     "Knowledge Engineering"
   ]
+  ,
+  "affiliation": {
+    "@id": "https://example.com/org/epistemik",
+    "@type": "Organization",
+    "name": "Epistemik",
+    "description": "Former consultancy (now defunct) providing linked data, knowledge graph and semantics consulting services."
+  }
 }
